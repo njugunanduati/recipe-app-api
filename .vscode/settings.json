@@ -1,0 +1,5 @@
+{
+    "python.unitTest.pyTestEnabled": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.flake8Enabled": true
+}
